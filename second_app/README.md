@@ -1,6 +1,6 @@
 # second_app
 
-A new Flutter project.
+Öğrenme aşamasında yapılanlar...
 
 ## Getting Started
 
