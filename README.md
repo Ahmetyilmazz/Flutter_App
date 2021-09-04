@@ -1,2 +1,2 @@
-# first_app
+# Flutter Examples
  Welcome to Flutter
