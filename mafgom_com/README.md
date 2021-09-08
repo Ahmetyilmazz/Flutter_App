@@ -1,4 +1,4 @@
-# mafgom_com
+# mafgom.com
 
 A new Flutter project.
 
