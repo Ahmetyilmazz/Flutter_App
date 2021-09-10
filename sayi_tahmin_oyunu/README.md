@@ -1,6 +1,5 @@
 # sayi_tahmin_oyunu
-
-A new Flutter project.
+Screenshot_1631310833 isimli dosya telefondaki ekran görüntüsüdür.
 
 ## Getting Started
 
