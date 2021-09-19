@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![original-design](./resimler/Giris_KayitOl_page)  |   ![](./resimler/login_page) | ![](./resimler/register_page)
+![original-design](./resimler/Giris_KayitOl_page.png)  |   ![](./resimler/login_page.png) | ![](./resimler/register_page.png)
