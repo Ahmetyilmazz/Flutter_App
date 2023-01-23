@@ -1,4 +1,5 @@
-import 'package:flutter/cupertino.dart';
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
 
 /*ÇALIŞMA MANTIĞI: 
@@ -6,12 +7,14 @@ import 'package:flutter/material.dart';
   yere sizden Toplama-Çıkarma-Çarpma-Bölme işlemlerinden yapmak istediğiniz 2 sayiyi girmeniz istenecektir.
   O bölgelere istediğiniz sayıları girdikten sonra işleminizi seçip sonucunuzu görebilirsiniz.*/
 
-void main() => runApp(MyApp());
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false, // Sol üstteki debug yazısını kaldırır.
       title: 'Hesap Makinesi',
       home: Iskele(),
@@ -20,22 +23,26 @@ class MyApp extends StatelessWidget {
 }
 
 class Iskele extends StatelessWidget {
+  const Iskele({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor:
           Colors.blueGrey[100], // Arka fon rengini ayarlayan satır.
       appBar: AppBar(
-        title: Text("Basit Hesap Makinesi"),
+        title: const Text("Basit Hesap Makinesi"),
         backgroundColor:
             Colors.red[900], // AppBar'ın fon rengini ayarlayan satır.
       ),
-      body: AnaEkran(),
+      body: const AnaEkran(),
     );
   }
 }
 
 class AnaEkran extends StatefulWidget {
+  const AnaEkran({super.key});
+
   @override
   _AnaEkranState createState() => _AnaEkranState();
 }
@@ -89,7 +96,8 @@ class _AnaEkranState extends State<AnaEkran> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: EdgeInsets.all(55.0), // Düzen kısmı boyuta göre değiştirilebilir.
+      margin: const EdgeInsets.all(
+          55.0), // Düzen kısmı boyuta göre değiştirilebilir.
       child: Center(
         child: Column(
           children: [
@@ -101,10 +109,13 @@ class _AnaEkranState extends State<AnaEkran> {
             TextField(
               controller: t2,
             ),
-            TextButton(onPressed: sayiTopla, child: Text("TOPLAMA")),
-            TextButton(onPressed: sayiCikar, child: Text("ÇIKARMA")),
-            TextButton(onPressed: sayiCarp, child: Text("ÇARPMA")),
-            TextButton(onPressed: sayiBol, child: Text("BÖLME")),
+            const Padding(
+              padding: EdgeInsets.all(10),
+            ),
+            TextButton(onPressed: sayiTopla, child: const Text("TOPLAMA")),
+            TextButton(onPressed: sayiCikar, child: const Text("ÇIKARMA")),
+            TextButton(onPressed: sayiCarp, child: const Text("ÇARPMA")),
+            TextButton(onPressed: sayiBol, child: const Text("BÖLME")),
           ],
         ),
       ),
