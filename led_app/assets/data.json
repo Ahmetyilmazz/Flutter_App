@@ -1,0 +1,52 @@
+{
+    "ledGrubuSayisiLimitleri": 
+    {
+        "max": 5,
+        "min": 1,
+        "default":1
+    },
+    "ledGrubuSayisi": 3,
+    "ledGrubu":
+    [
+        {
+            "firstLedAddr": 1,
+            "endLedAddr": 1,
+            "R": 255, 
+            "G": 255,
+            "B": 255
+        },
+
+        {
+            "firstLedAddr": 2,
+            "endLedAddr": 2,
+            "R": 255, 
+            "G": 255,
+            "B": 255
+        },        
+        
+        {
+            "firstLedAddr": 3,
+            "endLedAddr": 3,
+            "R": 255, 
+            "G": 255,
+            "B": 255
+        },
+
+        {
+            "firstLedAddr": 4,
+            "endLedAddr": 4,
+            "R": 255, 
+            "G": 255,
+            "B": 255
+        },
+                
+        {
+            "firstLedAddr": 5,
+            "endLedAddr": 5,
+            "R": 255, 
+            "G": 255,
+            "B": 255
+        }
+    ]
+    
+}
