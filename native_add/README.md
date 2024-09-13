@@ -21,6 +21,9 @@ This template uses the following structure:
 * platform folders (`android`, `ios`, `windows`, etc.): Contains the build files
   for building and bundling the native code library with the platform application.
 
+![image alt](https://github.com/Ahmetyilmazz/Flutter_App/blob/5940a4538311b25860c673855cb6ebdbb909df36/native_add/Screenshot_1726264798.png)
+  
+
 ## Building and bundling native code
 
 The `pubspec.yaml` specifies FFI plugins as follows:
