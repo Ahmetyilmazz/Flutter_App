@@ -1,4 +1,4 @@
-# ses_ve_muzik
+# Ses_ve_Muzik
 
 A new Flutter project.
 
@@ -16,5 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![image alt](https://github.com/Ahmetyilmazz/Flutter_App/blob/2c6821ed55aea03584e1e5b091b25f6bb94d4d57/ses_ve_muzik/app_screenshot.png)
+## 📸 Ekran Görüntüleri
+Uygulamaya ait ekran görüntüleri:
+
+<img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/2c6821ed55aea03584e1e5b091b25f6bb94d4d57/ses_ve_muzik/app_screenshot.png" width="300"/>
 
