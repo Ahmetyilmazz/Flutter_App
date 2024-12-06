@@ -1,5 +1,4 @@
-# sayi_tahmin_oyunu
-Screenshot_1631310833 isimli dosya telefondaki ekran görüntüsüdür.
+# Sayı Tahmin Oyunu
 
 ## Getting Started
 
@@ -14,4 +13,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![original-design](./Screenshot_1631310833.png)
+
+<img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/b50e892907d3e4ee21393bb0814f6da5a426b976/sayi_tahmin_oyunu/Screenshot_1631310833.png" width="300"/>
+
