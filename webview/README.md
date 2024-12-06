@@ -20,10 +20,8 @@
 
 • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
 
-💻 Portföyümdeki projelerim, yeteneklerimi ve tasarım anlayışımı gözler önüne seriyor. İncelemenizi ve geri dönüşlerinizi bekliyorum! 💬
 
 ## 📸 Ekran Görüntüleri
-Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/800ae5d0c8465d04be525d63b168392d3065db74/webview/Screenshots/Screenshot_1727195441.png" width="300"/>
