@@ -1,8 +1,6 @@
 # Hesap Makinesi
 
-## Proje Açıklaması: Uygulamayı çalıştırdığınız zaman sizi bir ekran karşılayacak ve bu ekranın Sonuç: null kısmının altındaki
-  yere sizden Toplama-Çıkarma-Çarpma-Bölme işlemlerinden yapmak istediğiniz 2 sayiyi girmeniz istenecektir.
-  O bölgelere istediğiniz sayıları girdikten sonra işleminizi seçip sonucunuzu görebilirsiniz.
+## Proje Açıklaması: Uygulamayı çalıştırdığınız zaman sizi bir ekran karşılayacak ve bu ekranın Sonuç: null kısmının altındaki yere sizden Toplama-Çıkarma-Çarpma-Bölme işlemlerinden yapmak istediğiniz 2 sayiyi girmeniz istenecektir. O bölgelere istediğiniz sayıları girdikten sonra işleminizi seçip sonucunuzu görebilirsiniz.
 
 
 ## 📸 Ekran Görüntüleri
