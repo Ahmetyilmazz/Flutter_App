@@ -1,4 +1,4 @@
-# loginekrani_v1_app
+# Login-Register_v1
 
 A new Flutter project.
 
