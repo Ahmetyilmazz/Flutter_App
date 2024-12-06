@@ -15,6 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![original-design](./resimler/AnaEkran.png)  |   ![](./resimler/LoginPenceresi.png) | ![](./resimler/KayıtOl_Penceresi.png)
 
+## 📸 Ekran Görüntüleri
+Uygulamaya ait ekran görüntüleri:
+
+<div align="center">
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/4b709f584eff9cacd47777cc83b5df3814a87022/loginekrani_v1_app/resimler/LoginPenceresi.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/4b709f584eff9cacd47777cc83b5df3814a87022/loginekrani_v1_app/resimler/Kay%C4%B1tOl_Penceresi.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/4b709f584eff9cacd47777cc83b5df3814a87022/loginekrani_v1_app/resimler/AnaEkran.png" width="300"/>
+</div>
 
