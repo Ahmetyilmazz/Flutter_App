@@ -3,12 +3,14 @@
 ## Geliştirici olarak geçirdiğim zaman boyunca birçok proje üzerinde çalıştım ve bu deneyimlerimi sergilemek için Flutter kullanarak geliştirdiğim portföy sitemi paylaşmaktan mutluluk duyuyorum! 🎉
 
 📈 Neler bulabilirsiniz?
+* Hakkımda
+* Sertifikalarım
+* Mobil uygulamalar ve tasarımlarım
+* Web projeleri ve tasarımlarım
+* Her projeye dair detaylı açıklamalar ve özellikler
 
-• Hakkımda
-• Sertifikalarım
-• Mobil uygulamalar ve tasarımlarım
-• Web projeleri ve tasarımlarım
-• Her projeye dair detaylı açıklamalar ve özellikler
+
+
 
 🔍 Öne Çıkan Özellikler:
 
