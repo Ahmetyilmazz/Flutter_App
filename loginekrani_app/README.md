@@ -1,4 +1,4 @@
-# loginekrani_app
+# Login
 
 A new Flutter project.
 
@@ -16,4 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![original-design](./resimler/Giris_KayitOl_page.png)  |   ![](./resimler/login_page.png) | ![](./resimler/register_page.png)
+## 📸 Ekran Görüntüleri
+Uygulamaya ait ekran görüntüleri:
+
+<div align="center">
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/d412d5d95c3a84c3606660d4f3ef9817d473a09c/loginekrani_app/resimler/login_page.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/d412d5d95c3a84c3606660d4f3ef9817d473a09c/loginekrani_app/resimler/register_page.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Flutter_App/blob/d412d5d95c3a84c3606660d4f3ef9817d473a09c/loginekrani_app/resimler/Giris_KayitOl_page.png" width="300"/>
+</div>
+
