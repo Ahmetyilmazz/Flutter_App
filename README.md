@@ -29,7 +29,7 @@ Bu depo, **Flutter** ile geliştirilmiş farklı projeleri içermektedir. Her pr
 ---
 
 ### 2️⃣ **Portfoy Webview**
-- **Açıklama:** Geliştirici olarak geçirdiğim zaman boyunca birçok proje üzerinde çalıştım ve bu deneyimlerimi sergilemek için Flutter kullanarak geliştirdiğim portföy sitemi yayınladım.
+- **Açıklama:** Geliştirici olarak geçirdiğim zaman boyunca birçok proje üzerinde çalıştım ve bu deneyimlerimi sergilemek için Flutter kullanarak geliştirdiğim portföy sitemi yayınladım. Bu proje de bu sitenin Webview uygulamasıdır. 
 - **Özellikler:**
   • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
   • Hızlı Yükleme Süreleri: Flutter'ın performans avantajı sayesinde kullanıcıların sitede hızlıca gezinmesini sağlıyor.
