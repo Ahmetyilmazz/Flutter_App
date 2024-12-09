@@ -31,7 +31,7 @@ Bu depo, **Flutter** ile geliştirilmiş farklı projeleri içermektedir. Her pr
 ### 2️⃣ **Portfoy Webview**
 - **Açıklama:** Geliştirici olarak geçirdiğim zaman boyunca birçok proje üzerinde çalıştım ve bu deneyimlerimi sergilemek için Flutter kullanarak geliştirdiğim portföy sitemi yayınladım.
 - **Özellikler:**
-  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayarak, her cihazda mükemmel bir deneyim sunuyor.
+  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
   • Hızlı Yükleme Süreleri: Flutter'ın performans avantajı sayesinde kullanıcıların sitede hızlıca gezinmesini sağlıyor.
   • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
 - **Klasör:** [Portfolio/](./webview/)
@@ -48,7 +48,7 @@ Bu depo, **Flutter** ile geliştirilmiş farklı projeleri içermektedir. Her pr
 ### 3️⃣ **Login - Register Page**
 - **Açıklama:** Uygulama kullanıcı giriş ve kayıt ol sayfaları oluşturma 
 - **Özellikler:**
-  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayarak, her cihazda mükemmel bir deneyim sunuyor.
+  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
   • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
 - **Klasör:** [Login - Register/](./loginekrani_app/)
 - **Ekran Görüntüleri:**
@@ -59,6 +59,53 @@ Bu depo, **Flutter** ile geliştirilmiş farklı projeleri içermektedir. Her pr
 </div>
 
 ---
+
+---
+
+### 4️⃣ **Login - Register Page_v1**
+- **Açıklama:** Uygulama kullanıcı giriş ve kayıt ol sayfaları oluşturma 
+- **Özellikler:**
+  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
+  • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
+- **Klasör:** [Login - Register_v1/](./loginekrani_v1_app/)
+- **Ekran Görüntüleri:**
+<div align="center">
+  <img src="./loginekrani_v1_app/resimler/LoginPenceresi.png" width="250"/>
+  <img src="./loginekrani_v1_app/resimler/Kay%C4%B1tOl_Penceresi.png" width="250"/>
+  <img src="./loginekrani_v1_app/resimler/AnaEkran.png" width="250"/>
+</div>
+
+---
+
+### 5️⃣ **Chat App**
+- **Açıklama:** Bu uygulama, basit bir arayüze sahip bir mesajlaşma uygulaması oluşturmaktı. Mevcut olan tasarım olarak mevcuttur fakat devamı gelebilir.
+- **Özellikler:**
+ • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
+ • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
+- **Klasör:** [Chat App/](./Chat_App/)
+- **Ekran Görüntüleri:**
+<div align="center">
+  <img src="./Chat_App/resimler/Grisi_Sayfasi.png" width="250"/>
+  <img src="./Chat_App/resimler/Kayit_Sayfasi.png" width="250"/>
+  <img src="./Chat_App/resimler/Ana_Ekran.png" width="250"/>
+
+</div>
+
+---
+
+### 6️⃣ **Sayı Tahmin Oyunu**
+- **Açıklama:** Basit bir Sayı tahmin oyunu.
+- **Özellikler:**
+  • Responsive Tasarım: Farklı ekran boyutlarına uyum sağlayan dinamik ve kullanıcı dostu bir arayüz tasarladım.
+  • Kullanıcı Dostu Arayüz: Basit ve şık tasarım ile kullanıcı deneyimini ön planda tutuyorum.
+- **Klasör:** [Sayı Tahmin Oyunu/](./sayi_tahmin_oyunu/)
+- **Ekran Görüntüleri:**
+<div align="center">
+  <img src="./sayi_tahmin_oyunu/Screenshot_1631310833.png" width="250"/>
+</div>
+
+---
+
 
 ## 🔧 **Nasıl Çalıştırılır?**
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
